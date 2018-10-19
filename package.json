@@ -1,0 +1,23 @@
+{
+  "name": "securitybox",
+  "version": "0.0.1",
+  "description": "Security box Almundo challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardona7daniel/securityBox.git"
+  },
+  "keywords": [
+    "Challenge",
+    "Almundo"
+  ],
+  "author": "Daniel Cardona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cardona7daniel/securityBox/issues"
+  },
+  "homepage": "https://github.com/cardona7daniel/securityBox#readme"
+}
